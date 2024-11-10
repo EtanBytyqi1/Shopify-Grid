@@ -1,0 +1,30 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+ }
+ 
+ .men{
+     width: 70px;
+     height: 40px;
+     border-radius: 20px;
+     background-color: blue;
+     color: black;
+    border: none;
+ 
+ }
+ 
+ .women{
+     width: 70px;
+     height: 40px;
+     border-radius: 20px;
+     background-color: rgb(245, 57, 255);
+     color: black;
+    border: none;
+ 
+ }
+ 
+ .div1{
+     background-color: yellow;
+     opacity: 70%;
+ 
+ }
